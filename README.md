@@ -55,3 +55,9 @@ This sales analysis empowered stakeholders to:
 -	Make data-driven decisions on pricing, promotions, and inventory
 -	Predict future sales outcomes and prepare for high-volume seasons
 -	Communicate insights clearly using dynamic visuals and narratives
+
+## Contact
+📧 [Email](mailto:godswill@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/godswill)  
+🔵 [Facebook](https://www.facebook.com/godswill)
+💬 [Chat on WhatsApp](https://wa.me/2348102840145)  
