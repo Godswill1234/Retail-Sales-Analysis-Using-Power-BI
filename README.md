@@ -8,10 +8,10 @@ https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/blob/main/S
 https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/blob/main/Sales%20Table.xlsx
 
 ## Questions
-Which product category has the highest profit margin?				
-Which store location generates the most revenue?				
-How does customer type affect average discount?				
-Between online and offline sales, which is more profitable?				
+- Which product category has the highest profit margin?				
+- Which store location generates the most revenue?				
+- How does customer type affect average discount?				
+- Between online and offline sales, which is more profitable?				
 
 ## Key Points Covered:
 -	Product category contribution to overall profit efficiency (via Profit Margin %)
