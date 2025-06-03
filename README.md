@@ -22,6 +22,7 @@ https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/blob/main/S
 -	Use of DAX for calculated fields (Profit, Margin %, Discount %)
 
 ## Dashboards
+![Screenshot 2025-06-03 064929](https://github.com/user-attachments/assets/247c46a5-5c80-43a0-8416-9db413d1e57d)
 
 
 ## Procedures:
