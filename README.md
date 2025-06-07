@@ -5,9 +5,7 @@ To analyze sales data from multiple store locations in Abuja, Nigeria, with the 
 
 ## Dataset used
 [Download PowerBI file](https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/raw/refs/heads/main/Sales%20Analysis.pbix)
-
-https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/blob/main/Sales%20Analysis.pbix
-https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/blob/main/Sales%20Table.xlsx
+[Download Excel file](https://github.com/Godswill1234/Retail-Sales-Analysis-Using-Power-BI/raw/refs/heads/main/Sales%20Table.xlsx)
 
 ## Questions
 - Which product category has the highest profit margin?				
